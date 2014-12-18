@@ -1,0 +1,16 @@
+{
+  "name": "jeeves",
+  "version": "0.0.0",
+  "private": true,
+
+  "author": "Christian Berg <berg.christian@gmail.com>",
+
+  "description": "My personal valet",
+
+  "dependencies": {
+  },
+
+  "engines": {
+    "node": "0.10.x"
+  }
+}
